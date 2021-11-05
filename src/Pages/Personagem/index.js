@@ -2,7 +2,7 @@
 function Personagem(){
     return(
         <div>
-            Muito Gay
+            Hello World
         </div>
     );
 }
